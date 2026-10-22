@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Id": "com.github.ayberk.cachytodo",
+        "Name": "Cachy To Do",
+        "Description": "A focused task list with optional deadlines",
+        "Description[tr]": "İsteğe bağlı son tarihlerle sade bir görev listesi",
+        "Icon": "view-task",
+        "Category": "Productivity",
+        "Version": "0.4.0",
+        "License": "MIT",
+        "Authors": [{ "Name": "Cachy To Do Contributors" }]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

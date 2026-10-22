@@ -1,0 +1,20 @@
+# Generated packages and build output
+/dist/
+/build/
+*.qmlc
+*.jsc
+
+# Local agent configuration, credentials, and environment files
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+
+# Editor temporary files and crash dumps
+*.swp
+*.swo
+*~
+core
+core.*
